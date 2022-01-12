@@ -1,9 +1,9 @@
 # Bike Sharing Business Problem
 > US bike-sharing provider BoomBikes in which bikes are made available for shared use to individuals on a short term basis for a price or free. The company is finding it very difficult to sustain in the current market scenario. So, it has decided to come up with a mindful business plan to be able to accelerate its revenue as soon as the ongoing lockdown comes to an end, and the economy restores to a healthy state.
 Essentially, the company wants —
--To identify variables which affect demand of shared bike
--To create a linear model that quantitatively relates demand of shared bikes with variables such as number of temperature, season etc.
--To know the accuracy of the model, i.e. how well these variables can predict demand of shared bikes.
+- To identify variables which affect demand of shared bike
+- To create a linear model that quantitatively relates demand of shared bikes with variables such as number of temperature, season etc.
+- To know the accuracy of the model, i.e. how well these variables can predict demand of shared bikes.
 
 
 ## Table of Contents
